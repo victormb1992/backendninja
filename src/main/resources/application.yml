@@ -13,3 +13,6 @@ spring:
       hibernate: 
         dialect: org.hibernate.dialect.MySQL5Dialect
     show-sql: true
+    
+  thymeleaf:
+    cache: false
